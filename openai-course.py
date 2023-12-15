@@ -12,7 +12,7 @@ from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv())  # store the result of last evaluation (expresion) in the interpreter
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-# openai.api_key = "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"
+# openai.api_key = ""
 
 # class Test:
 #     def __init__(self):
