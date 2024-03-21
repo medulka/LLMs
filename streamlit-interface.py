@@ -3,7 +3,7 @@
 Task specific endpoints - deprecated
 after: https://github.com/Aleph-Alpha/examples/blob/main/boilerplate/07_streamlit_mvp.py
 """
-client_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxOTQ2MywidG9rZW5faWQiOjQwNzJ9.MsF_ZqRrFDRikisVrfD-8BWNwF60RGrWEXrBWjSrnjk"
+client_token = ""
 model_of_choice = "luminous-extended"
 
 from aleph_alpha_client import Client, Prompt, CompletionRequest, SemanticEmbeddingRequest, SemanticRepresentation
