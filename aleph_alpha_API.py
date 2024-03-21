@@ -13,7 +13,7 @@ from aleph_alpha_client import Client, Prompt, CompletionRequest
 # test_installation("aleph_alpha_client")
 
 # to define
-client_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxOTQ2MywidG9rZW5faWQiOjQwNzJ9.MsF_ZqRrFDRikisVrfD-8BWNwF60RGrWEXrBWjSrnjk"
+client_token = ""
 model_of_choice="luminous-base"
 prompt_text = """Identify matching keywords for each text.
 ###
