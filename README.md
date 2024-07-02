@@ -1,1 +1,1 @@
-# commercial-llms
+# open source and commercial llms
